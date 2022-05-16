@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Lato", "Arial", sans-serif;
+}
+
+.site_info {
+    width: 1600px;
+}
+
+.header {
+    background: black;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.top_info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_section {
+    display: flex;
+    align-items: center;
+}
+
+.header_button {
+    padding: 18px;
+}
+
+
+.banner {
+    background: #F1E4E6;
+}
+
+.banner_text {
+    float: right;
+    margin-top: 290px;
+    border-left: 12px solid #F16D7F;
+    padding-left: 16px;
+}
+
+.the_brand {
+    font-weight: 799;
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.the_fashion {
+    font-weight: 700;
+    font-size: 32px;
+    Line-height: 38.4px;
+}
+
+.span_fashion {
+    color: #F16D7F;
+}
+
+.photo_content_1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+}
+
+.photo_content_2 {
+    margin-top: 30px;
+}
+
+.photo_text_1 {
+    position: absolute;
+    text-align: center;
+    padding: 105px 103px 105px 103px;
+}
+
+.photo_text_2 {
+    position: absolute;
+    text-align: center;
+    padding: 105px 125px 105px 125px;
+}
+
+.photo_text_3 {
+    position: absolute;
+    text-align: center;
+    padding-top: 105px;
+    padding-left: 123px;
+}
+
+.photo_text_4 {
+    position: absolute;
+    text-align: center;
+    padding-top: 68px;
+    padding-left: 478px;
+}
+
+
+.off {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.2px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.woman {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.8px;
+    text-align: center;
+    color: #F16D7F;
+}
